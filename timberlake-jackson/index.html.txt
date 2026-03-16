@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title></title>
+
+<style>
+  body {
+    margin: 0;
+    background: black;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  iframe {
+    width: 100vw;
+    height: 100vh;
+    border: none;
+  }
+</style>
+</head>
+
+<body>
+
+<!-- 
+  Replace ONLY the video ID below (5ZMECDARCnU).
+  YouTube version is wrapped to hide title, controls, and branding.
+-->
+
+<iframe
+  src="https://www.youtube-nocookie.com/embed/5ZMECDARCnU?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&playsinline=1&mute=1"
+  allow="autoplay
