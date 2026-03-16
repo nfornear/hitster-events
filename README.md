@@ -1,0 +1,2 @@
+# hitster-events
+testing
